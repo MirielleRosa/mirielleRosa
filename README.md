@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
+  
 # Hi, I'm Mirielle.
 
 <div align="center"> I started in the world of programming</div>
