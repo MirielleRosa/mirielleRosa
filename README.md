@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
   
 # Hi, I'm Mirielle.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hi%2C+I'm+Mirielle.)](https://git.io/typing-svg)
+
 
 <div align="center"> I started in the world of programming</div>
 <div align="center"> I'm still a student. patience :)</div>
